@@ -26,9 +26,9 @@ We close best with companies that match **all three of these criteria**:
 2. **Legal team of 5+ people** — smaller legal teams have no bandwidth to lead a CLM rollout
 3. **Currently using Word + email + DocuSign** — this is our primary displacement target; companies already on a CLM platform are rarely worth pursuing
 
-**Strongest verticals:** Retail (supply chain contracts), Banking (vendor agreements), Manufacturing (procurement), Professional services (client MSAs)
+**Strongest verticals:** Food & agriculture (supply chain + PDO compliance contracts), Professional services (notarial, legal, consulting), Banking (vendor agreements), Manufacturing (procurement)
 
-**Weakest fit:** Public sector (procurement rules), Startups under 100 employees (no legal team), Companies already on SAP Ariba (too entrenched)
+**Weakest fit:** Public sector (procurement rules), Startups under 100 employees (no legal team), Companies already on SAP Ariba (too entrenched), companies whose General Counsel does not believe in software ("we lost a deal in Lyon because the prospect's lawyer had a personal objection to electricity")
 
 ---
 
@@ -82,7 +82,7 @@ Never negotiate on data residency or security terms. If a prospect requires data
 
 Won: Countersigned contract uploaded to Salesforce within 24 hours. Handoff call with CSM within 3 business days.
 
-Lost: Loss reason logged in Salesforce (mandatory). If the reason is "chose competitor," name the competitor. If the reason is "no decision," document the blocker.
+Lost: Loss reason logged in Salesforce (mandatory). If the reason is "chose competitor," name the competitor. If the reason is "no decision," document the blocker. Acceptable loss reasons include: "chose competitor," "budget cut," "no decision," "pivoted to NFTs" (this has happened twice).
 
 ---
 

@@ -6,6 +6,8 @@ Acme Corp sells contract lifecycle management (CLM) software to mid-market and e
 
 The Claude Code workspace in this folder is used by the Account Management and Legal teams to automate repetitive document work: filling security questionnaires from prospects, drafting client follow-ups, reviewing contracts for renewal, and generating proposal briefs.
 
+Current key accounts include Château du Fromage SA (247 cheese varieties, General Counsel Henri Gruyère), Cabinet Maître Mouton & Associés (notarial office, 480 contracts/month), and Les Croissants du Cloud SAS (in evaluation).
+
 ## What you are allowed to do
 
 - Read and summarise any file in this project

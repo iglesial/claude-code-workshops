@@ -1,10 +1,12 @@
-# Vendor Security Questionnaire — Delvaux Group
+# Vendor Security Questionnaire — Les Croissants du Cloud SAS
 
-**Sent by:** Marc Vanderberg, IT Security Lead, Delvaux Group  
+**Sent by:** Thomas Éclair, Head of IT Security, Les Croissants du Cloud SAS  
 **Sent to:** Acme Corp (vendor evaluation)  
 **Date:** 14 May 2025  
 **Response deadline:** 30 May 2025  
 **Purpose:** Pre-contract security due diligence for SaaS vendor onboarding
+
+*Note from Thomas Éclair: "Our croissant layer configuration files are classified trade secrets under EU trade secret law. We treat them with the same rigour as nuclear launch codes. Please answer accordingly."*
 
 Please answer each question. Where a document (certificate, report, policy) is referenced, indicate how it can be provided (NDA required, available on request, publicly available, etc.).
 
@@ -112,4 +114,4 @@ Please answer each question. Where a document (certificate, report, policy) is r
 
 ---
 
-*Thank you for completing this questionnaire. Please return to marc.vanderberg@delvauxgroup.com with the subject line: "Security Questionnaire Response — Acme Corp." Attach any supporting documents (certificates, reports) as PDF.*
+*Please return to thomas.eclair@croissantsducloud.fr with subject: "Security Questionnaire Response — Acme Corp." Attach supporting documents as PDF. Thomas will review within 3 business days. If he does not respond within 5 business days, contact his assistant Gaëlle — Thomas has a tendency to get absorbed in croissant layer modelling and lose track of his inbox.*

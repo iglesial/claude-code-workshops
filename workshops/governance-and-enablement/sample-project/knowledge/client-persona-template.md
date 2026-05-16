@@ -29,7 +29,7 @@ Use this template when onboarding a new account or preparing for a QBR. A comple
 (What pain were they solving? What was the trigger?)
 
 **What they replaced:**  
-(Previous tool or process — e.g., Word + DocuSign, manual email approval)
+(Previous tool or process)
 
 **Current usage:**  
 (How many contracts/month, which modules active, which teams using it)
@@ -39,61 +39,55 @@ Use this template when onboarding a new account or preparing for a QBR. A comple
 2.  
 
 **Expansion opportunity:**  
-(What would make them buy more seats, more modules, or refer us?)
-
 **Churn risk:**  
-(Any signals — low usage, headcount reduction, M&A, missed QBRs?)
-
 **Communication preferences:**  
-(Formal/informal, email/call, frequency, topics to avoid)
-
 **Notes:**  
 
 ---
 
-## FILLED EXAMPLE — Meridian Retail
+## FILLED EXAMPLE — Château du Fromage SA
 
-**Company name:** Meridian Retail SAS  
-**Industry:** Retail (fashion, 280 points of sale across France and Belgium)  
-**Headquarters:** Lyon, France  
-**Company size (employees):** 480  
-**ARR with Acme Corp:** €28,000  
-**Contract start date:** 1 March 2024  
-**Renewal date:** 28 February 2026  
+**Company name:** Château du Fromage SA  
+**Industry:** Artisanal cheese production and distribution (247 certified varieties, 18 EU countries)  
+**Headquarters:** Époisses, Burgundy, France  
+**Company size (employees):** 620  
+**ARR with Acme Corp:** €34,000  
+**Contract start date:** 1 June 2024  
+**Renewal date:** 31 May 2026  
 **Account Manager:** Sophie Marchand  
 
 **Key contacts:**
 | Name | Title | Role in deal | Preferred comms |
 |------|-------|-------------|-----------------|
-| Isabelle Renard | General Counsel | Champion & day-to-day | Email, formal French |
-| Thomas Lefevre | CFO | Economic buyer | Brief email summaries only |
-| Karim Bouali | Legal Operations Manager | Power user | Slack or Teams |
+| Henri Gruyère | General Counsel | Champion & day-to-day | Email (French only), very formal |
+| Gaston Camembert | CFO | Economic buyer | Will only read emails containing the word "savings" |
+| Blandine Reblochon | Legal Operations Manager | Power user | Teams, very enthusiastic, sends voice notes |
 
-**Champion:** Isabelle Renard (she drove the purchase; highly engaged, responds within 2 hours)  
-**Economic buyer:** Thomas Lefevre (met him twice; focused on cost and ROI only)  
-**Legal team lead:** Isabelle Renard  
+**Champion:** Henri Gruyère — drove the purchase with unusual intensity. Has framed the signed contract and hung it in his office.  
+**Economic buyer:** Gaston Camembert — met him once. Approved budget in under 4 minutes after seeing the ROI slide. Has not been seen since.  
+**Legal team lead:** Henri Gruyère  
 
 **Why they bought Acme Corp:**  
-Meridian's legal team of 6 was spending 3–4 weeks per supplier contract due to email approval chains across 3 internal departments. A missed renewal on a key supplier contract in Q3 2023 (cost: €80k penalty) was the trigger that unlocked budget.
+Château du Fromage manages one supplier contract per cheese variety — 247 contracts in total, covering milk sourcing, aging facilities, regional PDO compliance, and distribution exclusivity. Henri's team of 4 was manually tracking renewals in a colour-coded spreadsheet named "LE SYSTÈME" (all caps, as Henri insists). The trigger: a mislabelled Comté d'Été shipped as Comté d'Hiver in Q3 2023 invalidated a €140k distribution contract. The incident was referred to internally as "the Comté Catastrophe." Henri has not fully recovered.
 
 **What they replaced:**  
-Word templates + Outlook approval chain + DocuSign for e-signature. No centralised repository — contracts lived in individual mailboxes.
+"LE SYSTÈME" (Excel, 14 tabs, password-protected, only Henri knew the password), Outlook approval chains across 3 departments, and a physical binder labelled "URGENT — NE PAS JETER" that lived on Henri's desk.
 
 **Current usage:**  
-~65 contracts/month (supplier agreements, franchise agreements, property leases). Approval workflow and template library are active. E-signature adopted by legal team only — not yet rolled out to store managers (expansion opportunity).
+~90 contracts/month. Template Library and Approval Workflow fully adopted. E-signature rolled out to all 4 legal team members. Blandine has personally built 34 contract templates and considers this her greatest professional achievement.
 
 **Top 2 pain points today:**  
-1. Store managers still send contract requests by email — they haven't adopted the self-service intake form. Karim is working on a training session but needs a simpler version of the form.
-2. GDPR data deletion requests are tracked in a spreadsheet outside the platform — Isabelle wants a way to log and track these inside Acme Corp.
+1. The PDO (Protected Designation of Origin) compliance team is not yet on the platform — they still use a separate Word template for certification documents. Henri says they are "resistant to change." Blandine says they are "afraid of computers."  
+2. Gaston wants a dashboard showing contract renewal dates and estimated renewal value, which he checks monthly. The current Analytics module doesn't show value by renewal date. Feature request logged with Product (ticket #4471).
 
 **Expansion opportunity:**  
-Rolling out self-service contract intake to 12 regional store managers would add ~€8k ARR. Needs a simplified onboarding flow (currently too complex for non-legal users). Raise at QBR in June.
+Onboarding the PDO compliance team (8 people) would add ~€12k ARR and solve Henri's pain point #1. Timing: after summer. Henri says "August is sacred" and no project may start between 1–31 August.
 
 **Churn risk:**  
-Low. Isabelle is a vocal advocate internally and has referred one prospect (Dupont Textiles, in POC now). Thomas approved the contract renewal 3 months early. Risk would come from Isabelle leaving the company.
+Very low. Henri is evangelical about the platform and has given it a personal nickname ("mon assistant juridique"). Risk scenario: Henri retires and his replacement dismantles "LE SYSTÈME 2.0" (as he calls Acme Corp). Mitigation: ensure Blandine is positioned as the internal champion backup.
 
 **Communication preferences:**  
-Isabelle prefers formal French for official correspondence, casual French for quick follow-ups. Never CC Thomas unless it's a renewal or pricing conversation — he finds operational emails irrelevant. Karim prefers Teams messages for quick questions. QBRs are held in person in Lyon (Acme Corp covers travel).
+Henri: formal written French, no contractions, no emojis, never before 10:00 AM. Gaston: include the word "savings" in subject line; three bullet points maximum; never more than one email per month. Blandine: Teams, any time, including weekends (she enjoys it).
 
 **Notes:**  
-Meridian is a reference customer. Isabelle has agreed to a case study (draft approved, publish blocked by Thomas pending legal sign-off — follow up May 2025). Do not mention the Q3 2023 penalty incident in any external communication.
+Henri has asked three times whether the platform is "approved by the Académie française" for contract language quality. We have deflected each time. Do not bring this up. Château du Fromage does not allow visits to the aging caves by non-cheese professionals, so site visits are held in the Époisses village café. Expense accordingly.
