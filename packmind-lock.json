@@ -1,0 +1,47 @@
+{
+  "lockfileVersion": 1,
+  "packageSlugs": [
+    "github"
+  ],
+  "agents": [
+    "claude",
+    "packmind"
+  ],
+  "installedAt": "2026-05-16T04:46:18.325Z",
+  "artifacts": {
+    "skill:git-workflow": {
+      "name": "git-workflow",
+      "type": "skill",
+      "id": "c7d0d708-78e8-4fb8-80b9-7fb1845e4f49",
+      "version": 1,
+      "spaceId": "92f804fe-27e8-441e-90dd-a231b84aa2fd",
+      "packageIds": [
+        "657f8f7d-c0c8-43d7-a211-1c7e3d5950c2"
+      ],
+      "files": [
+        {
+          "path": ".claude/skills/git-workflow/SKILL.md",
+          "agent": "claude",
+          "isSkillDefinition": true
+        }
+      ]
+    },
+    "skill:github-issue-manager": {
+      "name": "github-issue-manager",
+      "type": "skill",
+      "id": "6c8c553e-3d1a-4c3e-8432-29c253267ceb",
+      "version": 1,
+      "spaceId": "92f804fe-27e8-441e-90dd-a231b84aa2fd",
+      "packageIds": [
+        "657f8f7d-c0c8-43d7-a211-1c7e3d5950c2"
+      ],
+      "files": [
+        {
+          "path": ".claude/skills/github-issue-manager/SKILL.md",
+          "agent": "claude",
+          "isSkillDefinition": true
+        }
+      ]
+    }
+  }
+}
